@@ -32,11 +32,11 @@
  - API：危险行为检测API
  
  ## 产品原型
- - ![原型](https://github.com/Hinata013/api/blob/master/1.png)
- - ![原型](https://github.com/Hinata013/api/blob/master/2.png)
- - ![原型](https://github.com/Hinata013/api/blob/master/3.png)
- - ![原型](https://github.com/Hinata013/api/blob/master/4.png)
- - ![原型](https://github.com/Hinata013/api/blob/master/5.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/qqqq.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/2222.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/3333.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/4444.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/5555.png)
  
  
 
