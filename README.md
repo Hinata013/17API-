@@ -37,6 +37,7 @@
  - ![原型](https://github.com/Hinata013/api/blob/master/3333.png)
  - ![原型](https://github.com/Hinata013/api/blob/master/4444.png)
  - ![原型](https://github.com/Hinata013/api/blob/master/5555.png)
+- [产品原型](http://nfunm053.gitee.io/ap/#id=k5j8n8&p=%E6%8F%90%E7%A4%BA%E7%95%8C%E9%9D%A2%EF%BC%88%E9%A6%96%E9%A1%B5%EF%BC%89)
 - [产品原型下载]( https://github.com/Hinata013/17API-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86.rp)
  
 
