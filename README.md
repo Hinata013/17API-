@@ -30,4 +30,13 @@
  - API: 人流量检测API
 - 需求：防止打架，破坏展物的情况出现
  - API：危险行为检测API
+ 
+ ## 产品原型
+ - ![原型](https://github.com/Hinata013/api/blob/master/1.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/2.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/3.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/4.png)
+ - ![原型](https://github.com/Hinata013/api/blob/master/5.png)
+ 
+ 
 
